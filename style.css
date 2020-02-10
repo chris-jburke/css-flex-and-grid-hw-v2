@@ -1,0 +1,54 @@
+html, body {
+	margin: 0 auto;
+	height: 100vh;
+}
+span {
+	margin: 0 10px;
+}
+
+.menu-bar span:hover{
+	text-decoration: underline;
+}
+
+.menu-bar {
+	margin: 5px 5px;
+}
+.logo {
+	display: inline;
+}
+.empty-space {
+	display: inline;
+	margin: 0 26vw;
+}
+.large-img{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 30px;
+}
+
+.small-img-row{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.small-img-row img{
+	margin: 0 auto;
+	height: 150px;
+	width: 250px;
+}
+.small-text-row {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+.small-text-row div{
+	margin: 0 auto;
+	height: 150px;
+	width: 250px;
+}
+.clear-row{
+	margin: 45px 0;
+}
+
